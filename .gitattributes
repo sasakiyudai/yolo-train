@@ -1,0 +1,4 @@
+data/widerface/images/train.zip filter=lfs diff=lfs merge=lfs -text
+data/widerface/images/val.zip filter=lfs diff=lfs merge=lfs -text
+data/widerface/labels/train.zip filter=lfs diff=lfs merge=lfs -text
+data/widerface/labels/val.zip filter=lfs diff=lfs merge=lfs -text
